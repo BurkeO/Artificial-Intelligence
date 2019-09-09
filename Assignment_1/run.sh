@@ -1,0 +1,1 @@
+prolog Assignment_1.pl
